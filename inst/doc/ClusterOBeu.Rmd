@@ -64,7 +64,7 @@ Table: `open_spending.cl` return
 
 # Examples
 
-The dataset in the following example is being used in [OpenBudgets.eu platform](http://apps.openbudgets.eu/) and concerns the income of Aragon. in 2007.
+The dataset in the following example is being used in [OpenBudgets.eu platform](http://openbudgets.eu/) and concerns the income of Aragon. in 2007.
 
 ## In R environment
 
